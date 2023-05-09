@@ -1,38 +1,45 @@
 import json
 
 
-def is_leggendary(ls,i,inv):
-  for j in range(len(ls['characterInventories']['Rocco'][str(inv)][i]['ItemCardEntries'])):
-    if(str(ls['characterInventories']['Rocco'][str(inv)][i]['ItemCardEntries'][j]['text']) == 'legendaryMods'):
-      return True    
-  return False
-  
-  
+def printer(dump,name,invtp,counter):
+  for i in range(len(dump['characterInventories'][name][invtp])): 
+    if dump['characterInventories'][name][invtp][i]['isLegendary'] == True:
+    
+      for j in range(len(dump['characterInventories'][name][invtp][i]['ItemCardEntries'])):
+        if str(dump['characterInventories'][name][invtp][i]['ItemCardEntries'][j]['text']) == 'DESC':
+          print(str(counter)+"."+str(dump['characterInventories'][name][invtp][i]['text'])+""+str(dump['characterInventories'][name][invtp][i]['ItemCardEntries'][j]['value']))
+          counter = counter + 1
+  return counter
 
+
+
+
+
+  
+filename ="itemsmod.json"
  
-with open('itemsmod.json') as f:
+with open(filename) as f:
+    #dump of char inventory
     dump = json.load(f)
 
 #type(dump)
-print(dump.keys())
-
+#print(dump.keys())
+#invetory section
 inv='playerInventory'
+#char name
+name="Rocco"
 
-#for
-for i in range(len(dump['characterInventories']['Rocco']['playerInventory'])): 
-  if is_leggendary(dump,i,inv):
-    for j in range(len(dump['characterInventories']['Rocco']['playerInventory'][i]['ItemCardEntries'])):
-      if  str(dump['characterInventories']['Rocco']['playerInventory'][i]['ItemCardEntries'][j]['text']) == 'DESC':
-        print(str(i)+"."+str(dump['characterInventories']['Rocco']['playerInventory'][i]['text'])+""+str(dump['characterInventories']['Rocco']['playerInventory'][i]['ItemCardEntries'][j]['value']))
 
-print('stesh')
+if name in dump["characterInventories"]:
+  
+  c = 0
+  print('inventory:\n')
+  printer(dump,name,inv,c)
+  print(c)
+  
+  print('stesh:\n')
 
-inv='stashInventory'
-
-for i in range(len(dump['characterInventories']['Rocco']['stashInventory'])):
-  if is_leggendary(dump,i,inv):
-    for j in range(len(dump['characterInventories']['Rocco']['stashInventory'][i]['ItemCardEntries'])):
-      if  str(dump['characterInventories']['Rocco']['stashInventory'][i]['ItemCardEntries'][j]['text']) == 'DESC':
-        print(str(i)+"."+str(dump['characterInventories']['Rocco']['stashInventory'][i]['text'])+""+str(dump['characterInventories']['Rocco']['stashInventory'][i]['ItemCardEntries'][j]['value']))
-
-#str(dump['characterInventories']['Rocco']['stashInventory'][i]['ItemCardEntries'][j]['text']) == 'legendaryMods'and
+  inv='stashInventory'
+  printer(dump,name,inv,c)
+else:
+  print("name error")

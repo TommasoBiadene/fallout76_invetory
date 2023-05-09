@@ -7,7 +7,7 @@
         },
         {
             "sum":"ari",
-            "descr":""
+            "descr":"Incrementa i danni per ogni 1.000 tappi posseduti, fino a un massimo di +50%."
         },
         {
             "sum":"ass",
@@ -19,7 +19,7 @@
         },
         {
             "sum":"b",
-            "descr":""
+            "descr":"I danni aumentano al diminuire della salute, fino a un massimo di +95%."
         },
         {
             "sum":"exe",
@@ -31,7 +31,7 @@
         },
         {
             "sum":"fur",
-            "descr":""
+            "descr":"+5% Danni dopo ogni colpo consecutivo a segno contro lo stesso bersaglio fino a +45%."
         },
         {
             "sum":"ghoul",
@@ -47,11 +47,11 @@
         },
         {
             "sum":"inst",
-            "descr":""
+            "descr":"Danni doppi se la salute del bersaglio è al massimo."
         },
         {
             "sum":"jug",
-            "descr":""
+            "descr":"I danni aumentano all'aumentare della salute, fino a un massimo di +25%."
         },
         {
             "sum":"j",
@@ -75,7 +75,7 @@
         },
         {
             "sum":"q",
-            "descr":""
+            "descr":"Capienza munizioni quadrupla"
         },
         {
             "sum":"st",
@@ -95,7 +95,7 @@
         },  
         {
             "sum":"v",
-            "descr":""
+            "descr":"Rigenera il 2% di salute in 2 secondi dopo aver colpito un nemico."
         },  
         {
             "sum":"z",
@@ -106,15 +106,19 @@
     "second":[
         {
             "sum":"bash",
-            "descr":""
+            "descr":"+50% Danni da sfondamento."
         },
         {
             "sum":"limb",
-            "descr":""
+            "descr":"+50% Danni agli arti"
         },
         {
             "sum":"exp",
-            "descr":""
+            "descr":"I proiettili esplodono infliggendo il 20% dei danni dell'arma."
+        },
+        {
+            "sum":"exp",
+            "descr":"Fucile a pompaI proiettili esplodono infliggendo il 3% dei danni dell'arma."
         },
         {
             "sum":"aim",
@@ -130,11 +134,11 @@
         },
         {
             "sum":"50c",
-            "descr":""
+            "descr":"I colpi critici con lo S.P.A.V. infliggono +50% Danni."
         },
         {
             "sum":"ffr",
-            "descr":""
+            "descr":"Cadenza di fuoco più rapida del 25%"
         },
         {
             "sum":"50",
@@ -142,7 +146,7 @@
         },  
         {
             "sum":"ss",
-            "descr":""
+            "descr":"Shishkebab+40% velocità d'attacco in mischia"
         },
         {
             "sum":"40p",
@@ -164,59 +168,59 @@
         },
         {
             "sum":"dur",
-            "descr":""
+            "descr":"Si rompe più lentamente del 50%."
         },
         {
             "sum":"steath field",
-            "descr":""
+            "descr":"I colpi a segno hanno una probabilità del 10% di generare un campo stealth per 2 secondi."
         },
         {
             "sum":"90%",
-            "descr":""
+            "descr":"Peso ridotto del 90%"
         },
         {
             "sum":"15c",
-            "descr":""
+            "descr":"La barra colpi critici con lo S.P.A.V. si riempie più velocemente del 15%"
         },
         {
             "sum":"mvs",
-            "descr":""
+            "descr":"Velocità di movimento aumentata del 100% mentre prendi la mira."
         },
         {
             "sum":"+1per",
-            "descr":""
+            "descr":"+1 Percezione"
         },
         {
             "sum":"15r",
-            "descr":""
+            "descr":"Ricarica più rapida del 15%"
         },
         {
             "sum":"+250 res",
-            "descr":""
+            "descr":"+250 Resistenza ai danni mentre ricarichi"
         },
         {
             "sum":"+50 res",
-            "descr":""
+            "descr":"+50 Resistenza ai danni mentre prendi la mira"
         },
         {
             "sum":"25v",
-            "descr":""
+            "descr":"Costo in Punti Azione per lo S.P.A.V. ridotto del 25%"
         },
         {
             "sum":"15% less damage",
-            "descr":""
+            "descr":"Subisci -15% Danni quando blocchi"
         },
         {
             "sum":"40",
-            "descr":""
+            "descr":"-40% Danni quando sferri attacchi potenti."
         },
         {
             "sum":"+1e",
-            "descr":""
+            "descr":"+1 Costituzione"
         },
         {
             "sum":"+1s",
-            "descr":""
+            "descr":"+1 Forza"
         }
     ]
    },
@@ -288,7 +292,7 @@
         },  
         {
             "sum":"uny",
-            "descr":""
+            "descr":"Guadagni fino a +3 in tutte le statistiche (eccetto COS) quando la salute scarseggia"
         },
         {
             "sum":"van",
@@ -392,7 +396,7 @@
         },
         {
             "sum":"med",
-            "descr":""
+            "descr":"I colpi critici con lo S.P.A.V. curano te e il tuo gruppo del 5% di salute."
         },
         {
             "sum":"50 dur",
