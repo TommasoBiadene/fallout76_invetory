@@ -79,7 +79,7 @@
         },
         {
             "sum":"st",
-            "descr":""
+            "descr":"+100% precisione S.P.A.V. con costo PA +50% non in combattimento."
         },
         {
             "sum":"sup",
@@ -296,7 +296,7 @@
         },
         {
             "sum":"van",
-            "descr":""
+            "descr":"Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35)."
         },
         {
             "sum":"weight",
@@ -310,19 +310,19 @@
     "second":[
         {
             "sum":"+1a",
-            "descr":""
+            "descr":"+1 Agilità"
         },  
         {
             "sum":"+25% res env",
             "descr":""
         },
         {
-            "sum":"+1c",
-            "descr":""
+            "sum":"+1e",
+            "descr":"+1 Costituzione"
         },
         {
-            "sum":"+1e",
-            "descr":""
+            "sum":"+1s",
+            "descr":"+1 Forza"
         },
         {
             "sum":"+25% fire",
@@ -346,24 +346,21 @@
         },
         {
             "sum":"+1l",
-            "descr":""
+            "descr":"+1 Fortuna"
         },
         {
             "sum":"+1p",
-            "descr":""
+            "descr":"+1 Percezione"
         },
         {
-            "sum":"25 poison",
-            "descr":""
+            "sum":"+25 poison",
+            "descr":"+25 Resistenza al veleno."
         },
         {
             "sum":"ap",
             "descr":""
         },
-        {
-            "sum":"1+s",
-            "descr":""
-        },
+       
         {
             "sum":"+25 cryo",
             "descr":""
@@ -428,7 +425,7 @@
         },
         {
             "sum":"15% limb res",
-            "descr":""
+            "descr":"-15% Danni agli arti"
         },
         {
             "sum":"wwr",
@@ -440,7 +437,7 @@
         },
         {
             "sum":"sent",
-            "descr":""
+            "descr":"Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo."
         },
         {
             "sum":"5% chance to deal 100 poison damage",

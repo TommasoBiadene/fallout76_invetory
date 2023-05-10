@@ -30,98 +30,98 @@ Ignora il 50% dell'armatura del bersaglio
 7.[Quadruplo] [Rinculo compensato] CryolatorCapienza munizioni quadrupla
 Cadenza di fuoco più rapida del 25%
 
-0
+8
 stesh:
 
-0.[Inseguitore] Sparachiodi - FucileI proiettili esplodono infliggendo il 20% dei danni dell'arma.
+8.[Inseguitore] Sparachiodi - FucileI proiettili esplodono infliggendo il 20% dei danni dell'arma.
 +100% precisione S.P.A.V. con costo PA +50% non in combattimento.
 +1 Percezione
 
-1.[Anti-corazza] [Bruciante] Super martello ¢+40% velocità d'attacco in mischia
+9.[Anti-corazza] [Bruciante] Super martello ¢+40% velocità d'attacco in mischia
 Si rompe più lentamente del 50%.
 Ignora il 50% dell'armatura del bersaglio
 
-2.[Anti-corazza] [Pompiere] [Massima capacità] Lancianapalm ¢Peso ridotto del 90%
+10.[Anti-corazza] [Pompiere] [Massima capacità] Lancianapalm ¢Peso ridotto del 90%
 Ignora il 50% dell'armatura del bersaglio
 
-3.[Anti-corazza] [Primo] Mitragliatrice leggeraI proiettili esplodono infliggendo il 20% dei danni dell'arma.
+11.[Anti-corazza] [Primo] Mitragliatrice leggeraI proiettili esplodono infliggendo il 20% dei danni dell'arma.
 +50 Resistenza ai danni mentre prendi la mira
 Ignora il 50% dell'armatura del bersaglio
 
-4.[Anti-corazza] [Vault-Tec] [Tattico] Mitragliatore a canne rotantiIgnora il 50% dell'armatura del bersaglio
+12.[Anti-corazza] [Vault-Tec] [Tattico] Mitragliatore a canne rotantiIgnora il 50% dell'armatura del bersaglio
 +50% Danni da sfondamento.
 
-5.[Avanguardia] Armatura scout urbano - Gamba destra+1 Agilità
+13.[Avanguardia] Armatura scout urbano - Gamba destra+1 Agilità
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 -15% Danni agli arti
 
-6.[Avanguardia] Armatura scout urbano - Gamba sinistraHai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+14.[Avanguardia] Armatura scout urbano - Gamba sinistraHai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 La velocità di aumento della fame e della sete è ridotta del 10%.
 
-7.[Avanguardia] [Nuka-Twist] BORCHIATA [Amiantato] Torace in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+15.[Avanguardia] [Nuka-Twist] BORCHIATA [Amiantato] Torace in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 +1 Forza
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 
-8.[Avanguardia] [Nuka-Twist] BORCHIATA [Molto capiente] Braccio destro in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+16.[Avanguardia] [Nuka-Twist] BORCHIATA [Molto capiente] Braccio destro in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 +1 Fortuna
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 
-9.[Avanguardia] [Nuka-Twist] BORCHIATA [Molto capiente] Braccio sinistro in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+17.[Avanguardia] [Nuka-Twist] BORCHIATA [Molto capiente] Braccio sinistro in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 +1 Costituzione
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 
-10.[Avanguardia] [Nuka-Twist] BORCHIATA [Ultraleggero] Gamba destra in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+18.[Avanguardia] [Nuka-Twist] BORCHIATA [Ultraleggero] Gamba destra in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 +1 Percezione
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 
-11.[Avanguardia] [Nuka-Twist] BORCHIATA [Ultraleggero] Gamba sinistra in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+19.[Avanguardia] [Nuka-Twist] BORCHIATA [Ultraleggero] Gamba sinistra in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 +25 Resistenza al veleno.
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 
-12.[Inseguitore] Sparachiodi - FucileI proiettili esplodono infliggendo il 20% dei danni dell'arma.
+20.[Inseguitore] Sparachiodi - FucileI proiettili esplodono infliggendo il 20% dei danni dell'arma.
 +100% precisione S.P.A.V. con costo PA +50% non in combattimento.
 +1 Percezione
 
-13.[Anti-corazza] [Bruciante] Super martello ¢+40% velocità d'attacco in mischia
+21.[Anti-corazza] [Bruciante] Super martello ¢+40% velocità d'attacco in mischia
 Si rompe più lentamente del 50%.
 Ignora il 50% dell'armatura del bersaglio
 
-14.[Anti-corazza] [Pompiere] [Massima capacità] Lancianapalm ¢Peso ridotto del 90%
+22.[Anti-corazza] [Pompiere] [Massima capacità] Lancianapalm ¢Peso ridotto del 90%
 Ignora il 50% dell'armatura del bersaglio
 
-15.[Anti-corazza] [Primo] Mitragliatrice leggeraI proiettili esplodono infliggendo il 20% dei danni dell'arma.
+23.[Anti-corazza] [Primo] Mitragliatrice leggeraI proiettili esplodono infliggendo il 20% dei danni dell'arma.
 +50 Resistenza ai danni mentre prendi la mira
 Ignora il 50% dell'armatura del bersaglio
 
-16.[Anti-corazza] [Vault-Tec] [Tattico] Mitragliatore a canne rotantiIgnora il 50% dell'armatura del bersaglio
+24.[Anti-corazza] [Vault-Tec] [Tattico] Mitragliatore a canne rotantiIgnora il 50% dell'armatura del bersaglio
 +50% Danni da sfondamento.
 
-17.[Avanguardia] Armatura scout urbano - Gamba destra+1 Agilità
+25.[Avanguardia] Armatura scout urbano - Gamba destra+1 Agilità
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 -15% Danni agli arti
 
-18.[Avanguardia] Armatura scout urbano - Gamba sinistraHai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+26.[Avanguardia] Armatura scout urbano - Gamba sinistraHai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 La velocità di aumento della fame e della sete è ridotta del 10%.
 
-19.[Avanguardia] [Nuka-Twist] BORCHIATA [Amiantato] Torace in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+27.[Avanguardia] [Nuka-Twist] BORCHIATA [Amiantato] Torace in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 +1 Forza
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 
-20.[Avanguardia] [Nuka-Twist] BORCHIATA [Molto capiente] Braccio destro in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+28.[Avanguardia] [Nuka-Twist] BORCHIATA [Molto capiente] Braccio destro in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 +1 Fortuna
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 
-21.[Avanguardia] [Nuka-Twist] BORCHIATA [Molto capiente] Braccio sinistro in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+29.[Avanguardia] [Nuka-Twist] BORCHIATA [Molto capiente] Braccio sinistro in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 +1 Costituzione
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 
-22.[Avanguardia] [Nuka-Twist] BORCHIATA [Ultraleggero] Gamba destra in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+30.[Avanguardia] [Nuka-Twist] BORCHIATA [Ultraleggero] Gamba destra in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 +1 Percezione
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 
-23.[Avanguardia] [Nuka-Twist] BORCHIATA [Ultraleggero] Gamba sinistra in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
+31.[Avanguardia] [Nuka-Twist] BORCHIATA [Ultraleggero] Gamba sinistra in cuoio ¢Hai il 75% di probabilità di ridurre i danni del 15% mentre sei fermo.
 +25 Resistenza al veleno.
 Aumenta la Resistenza ai danni e all'energia quanto più è alta la tua salute (fino a +35).
 
